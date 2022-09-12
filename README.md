@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JustECook
-- 🌱 I’m currently learning ...JavaScript
+- 🌱 I’m currently learning ...all things web development. 
 - 📫 How to reach me ...https://www.linkedin.com/in/justinecook/
 
 <!---
