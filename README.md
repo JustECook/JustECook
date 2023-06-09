@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JustECook
-- 🌱 I’m currently learning ...all things web development. 
+- 🌱 I’m currently learning ...Relational Databases 
 - 📫 How to reach me ...https://www.linkedin.com/in/justinecook/
 
 <!---
